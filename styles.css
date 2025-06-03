@@ -5,3 +5,10 @@ body{
     margin-top: 50px;
     color: black;
 }
+
+canvas{
+    border: 2px solid black;
+    display: block;
+    margin: 20px auto;
+    background-color: beige;
+}
